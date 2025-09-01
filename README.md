@@ -1,18 +1,3 @@
-## 🚀 科学上网推荐：蓝豆云机场
-
-💡 **推荐一个稳定高速的机场服务，适合日常上网、游戏加速、AI访问等需求！**
-
-- 🌍 全球多地区节点（香港、日本、新加坡、美国等）
-- 🚀 支持 SS、SSR、V2Ray、Trojan 等多协议
-- 🧠 低延迟、高速、稳定，支持 ChatGPT / Claude / Gemini 等 AI 工具无障碍访问
-- 📱 全平台支持（Windows / Mac / Android / iOS）
-
-🎁 **支持支付宝等多种支付方式！**
-
-👉 [点击注册体验](https://landouyun.cc/#/register?code=c3zi8trm)
-
----
-
 ## 如何启动
 
 1. 下载并安装 Python 3.10.8  
